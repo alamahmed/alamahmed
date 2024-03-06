@@ -1,56 +1,16 @@
-## Ahmed Alam
 
-**Software Developer | Building elegant solutions to complex problems**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alam-ahmed) 
 
-**Key Skills:**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alamahmed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alamahmed&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamahmed&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-* **Languages:** C++, Python, JavaScript, HTML, CSS
-* **Technologies:** React, Stripe, Git, SQL, Jira, Selenium, Playwright
-* **Concepts:** OOP, Functional Programming
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamahmed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-**About Me:**
-
-I'm a passionate and results-oriented software developer with a focus on designing and developing innovative solutions. I'm currently pursuing a BSc in Infotronic Systems Engineering at Hochschule Rhein-Waal University of Applied Sciences and possess a strong foundation in various programming languages and technologies.
-
-**Education:**
-
-* **Hochschule Rhein-Waal University of Applied Sciences, Kamp-Lintfort** (September 2023 – February 2027)
-    * BSc Infotronic Systems Engineering
-    * Focus on hardware-software integration, electrical engineering, computer science, and IT
-
-**Experience:**
-
-* **Freelance Software Developer** (February 2022 – September 2023)
-    * **Key Responsibilities:**
-        * Developed and maintained web and mobile applications
-        * Collaborated with clients to understand their requirements
-        * Designed and implemented efficient solutions
-        * Contributed to team projects and delivered on deadlines
-
-**Projects:**
-
-* **[Project Name 1]** (Description of project, skills used, and key features)
-* **[Project Name 2]** (Description of project, skills used, and key features)
-* **[Project Name 3]** (Description of project, skills used, and key features)
-
-**Links:**
-
-* **LinkedIn:** https://www.linkedin.com/in/alam-ahmed/
-* **Personal Website:** (Optional, if you have one)
-
-**Looking to:**
-
-* Contribute to challenging and impactful projects
-* Collaborate with talented teams
-* Continuously learn and grow as a developer
-
-**I'm open to new opportunities and would love to connect!**
-
-**Please note:** Replace the bracketed information with your own details and consider adding links to your GitHub repositories or personal projects.
-
-**Additional Tips:**
-
-* **Showcase your personality:** Briefly mention your interests or hobbies to make your profile more relatable.
-* **Highlight achievements:** Quantify your contributions whenever possible to demonstrate your impact.
-* **Stay up-to-date:** Regularly update your profile with new projects and skills.
-* **Engage with the community:** Participate in discussions and contribute to open-source projects.
+---
+[![](https://visitcount.itsvg.in/api?id=alamahmed&icon=0&color=0)](https://visitcount.itsvg.in)
