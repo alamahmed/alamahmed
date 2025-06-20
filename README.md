@@ -35,9 +35,6 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,next,threejs,js,ts,html,css,cpp,tailwind,py,fastapi,firebase,java" />
     <img src="https://skillicons.dev/icons?i=dotnet,jquery,notion,npm,selenium,tensorflow,vercel,linux,matlab,gradle,bash,github,arduino" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=ps,ae,ai,pr" />
-    <br>
 </div>
 
 <br/>
